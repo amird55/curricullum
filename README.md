@@ -1,2 +1,2 @@
 # curricullum
-create a curriculum for KIDUM school
+תוכנה ליצירת מערכת שעות עבור בית הספר קידום
