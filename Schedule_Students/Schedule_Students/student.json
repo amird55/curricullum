@@ -1,0 +1,12 @@
+{
+  "student_id": 1,
+  "gender": 1,
+  "student_fname": "Tomer",
+  "student_lname": "Neeman",
+  "student_mobile": "0522285335",
+  "student_email": "tomer.neeman@gmail.com",
+  "student_college_id": "121212",
+  "Course_id": [ 4, 7, 12, 15 ],
+  "Course_time": [40, 50, 100, 80]
+  
+}

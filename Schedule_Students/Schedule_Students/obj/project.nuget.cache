@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "f6UxryEXu8ihqA8LSzLdI4cQz+23WuxZGNVP6FC8dZtpKSsTN15wQl9BMTpK+gdykzqGgjh04LoC3FiqyNNupQ==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Visual Studio 2022\\repos\\Schedule_Students\\Schedule_Students\\Schedule_Students.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\715\\.nuget\\packages\\gembox.spreadsheet\\49.0.1153\\gembox.spreadsheet.49.0.1153.nupkg.sha512",
+    "C:\\Users\\715\\.nuget\\packages\\harfbuzzsharp\\2.8.2\\harfbuzzsharp.2.8.2.nupkg.sha512",
+    "C:\\Users\\715\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\2.8.2\\harfbuzzsharp.nativeassets.macos.2.8.2.nupkg.sha512",
+    "C:\\Users\\715\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\2.8.2\\harfbuzzsharp.nativeassets.win32.2.8.2.nupkg.sha512",
+    "C:\\Users\\715\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
+    "C:\\Users\\715\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\715\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\715\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\715\\.nuget\\packages\\skiasharp\\2.80.3\\skiasharp.2.80.3.nupkg.sha512",
+    "C:\\Users\\715\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\715\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
