@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Comment;
 
 namespace schedule_project
 {
     internal class Teacher
     {
         string name;
-        bool[] AvailbleDays; //מערך באורך 6 של ימי חול בשבוע בהם המורה יכול  לעבוד
+        Comment AvailbleDays = new Comment(); //מערך באורך 6 של ימי חול בשבוע בהם המורה יכול  לעבוד
                              //אם המורה עובד ביום מסויים יהיה אמת אחרת שקר
                              //על המערך להיראות כך [T,F,T,T,F,T]
         List<Course> courses; // רשימה של כל הקורסים  אותם המורה יכול ללמד
