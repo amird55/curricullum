@@ -5,7 +5,7 @@ namespace ClassSchedualing
 {
     class ClassAssignment
     {
-        public static Dictionary<string, string> CourseToKita = new Dictionary<string, string>() { };//  המטרה שלו היא לעקוב אחר איזה כיתות תפוסות והאם יש קורס שנמצא בכמה שעות רצוף
+        private static Dictionary<string, string> CourseToKita = new Dictionary<string, string>() { };//  המטרה שלו היא לעקוב אחר איזה כיתות תפוסות והאם יש קורס שנמצא בכמה שעות רצוף
         public static Kita[] kitaList = new Kita[8];//רשימה של כיתות שאמורים לקבל כנתון קבוע- עדיין לא הוגדר הרשימה המוכנה
 
         public static List<Course>[,] assignAll(List<Course>[,] TimeTable)//פעולה ראשית - ד
