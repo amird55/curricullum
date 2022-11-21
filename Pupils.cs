@@ -1,4 +1,4 @@
-  class Pupil
+class Pupil
   {
  //תכונות תלמיד
     private string firstName;
@@ -9,7 +9,7 @@
     private bool isLastYear;
 
 
-  public Pupil() //banay 
+  public Pupil() //בנאי 
   {
     this.firstName = Rami;
     this.lastName = Cohen;
@@ -29,7 +29,7 @@
     this.isLastYear=isLastYear;
  }
 
- public Pupil(Pupil p) //banay matik
+ public Pupil(Pupil p) //בנאי מעתיק
  {
     this.firstName = p.firstName;
     this.lastName = p.lastName;
@@ -39,7 +39,7 @@
     this.isLastYear = p.isLastYear;
  }
 
-//to string - hadpasa
+//to string - הדפסה
 public string toString()
 {
     return "firstName = " + this.firstName + \n +
