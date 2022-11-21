@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2022\repos\Requests.cs\Requests.cs\obj\Debug\net6.0\Requests.cs.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\repos\Requests.cs\Requests.cs\obj\Debug\net6.0\Requests.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Studio 2022\repos\Requests.cs\Requests.cs\obj\Debug\net6.0\Requests.cs.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2022\repos\Requests.cs\Requests.cs\obj\Debug\net6.0\Requests.cs.AssemblyInfo.cs
+D:\Documents\Visual Studio 2022\repos\Requests.cs\Requests.cs\obj\Debug\net6.0\Requests.cs.csproj.CoreCompileInputs.cache
