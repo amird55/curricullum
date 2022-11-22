@@ -1,0 +1,17 @@
+D:\Documents\Visual Studio 2022\repos\Requests\Requests\obj\Debug\net6.0\Requests.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\repos\Requests\Requests\obj\Debug\net6.0\Requests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Studio 2022\repos\Requests\Requests\obj\Debug\net6.0\Requests.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2022\repos\Requests\Requests\obj\Debug\net6.0\Requests.AssemblyInfo.cs
+D:\Documents\Visual Studio 2022\repos\Requests\Requests\obj\Debug\net6.0\Requests.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\repos\Requests\Requests\bin\Debug\net6.0\Requests.exe
+D:\Documents\Visual Studio 2022\repos\Requests\Requests\bin\Debug\net6.0\Requests.deps.json
+D:\Documents\Visual Studio 2022\repos\Requests\Requests\bin\Debug\net6.0\Requests.runtimeconfig.json
+D:\Documents\Visual Studio 2022\repos\Requests\Requests\bin\Debug\net6.0\Requests.dll
+D:\Documents\Visual Studio 2022\repos\Requests\Requests\bin\Debug\net6.0\Requests.pdb
+D:\Documents\Visual Studio 2022\repos\Requests\Requests\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2022\repos\Requests\Requests\obj\Debug\net6.0\Requests.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\repos\Requests\Requests\obj\Debug\net6.0\Requests.dll
+D:\Documents\Visual Studio 2022\repos\Requests\Requests\obj\Debug\net6.0\refint\Requests.dll
+D:\Documents\Visual Studio 2022\repos\Requests\Requests\obj\Debug\net6.0\Requests.pdb
+D:\Documents\Visual Studio 2022\repos\Requests\Requests\obj\Debug\net6.0\Requests.genruntimeconfig.cache
+D:\Documents\Visual Studio 2022\repos\Requests\Requests\obj\Debug\net6.0\ref\Requests.dll
